@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.btn{
+    width: 200px;
+    padding: 20px;
+    cursor: pointer;
+    border: none;
+    background: #994949;
+    border-radius: 20px;
+}
+
+
+.color{
+    width: 400px;
+    height: 400px;
+    border: 1px #000 solid;
+}
